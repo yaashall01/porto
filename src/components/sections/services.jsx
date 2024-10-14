@@ -1,9 +1,6 @@
 import React from 'react'
 import {
     RiGlobalFill,
-    RiQuillPenLine,
-    RiPantoneFill,
-    RiDatabaseFill,
     RiDatabase2Fill,
     RiLock2Fill
 } from '@remixicon/react'
@@ -15,7 +12,7 @@ const servicesList = [
         id: 1,
         icon: <RiGlobalFill size={63} />,
         service_name: "Full-Stack Web Application Development",
-        service_description: "Seamless web applications with intuitive interfaces and powerful backends using Java, PHP, ReactJS, and Angular."
+        service_description: "Seamless web applications with intuitive interfaces and powerful backends using Java, .Net, Angular, and ReactJS."
     },
     {
         id: 2,

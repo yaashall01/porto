@@ -13,7 +13,7 @@ const Banner = () => {
                                 <div className="hero-content rmb-25 text-center">
                                     <h1>I'm <span>Yassine</span> CHALH</h1>
                                     <div className="job">
-                                        <span>Software Developer</span><span>DevOps</span><span>Software Designer</span>
+                                        <span>Software Developer</span><span>DevOps</span><span>Microservice</span>
                                     </div>
                                 </div>
                             </SlideUp>

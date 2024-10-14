@@ -1,5 +1,13 @@
 import React from 'react'
-import { RiArrowRightUpLine, RiDownloadLine, RiFacebookCircleFill, RiTwitterXLine, RiLinkedinFill, RiGithubLine } from '@remixicon/react'
+import {
+    RiArrowRightUpLine,
+    RiDownloadLine,
+    RiFacebookCircleFill,
+    RiTwitterXLine,
+    RiLinkedinFill,
+    RiGithubLine,
+    RiGlobalFill
+} from '@remixicon/react'
 import profile_img from "../../assets/images/about/profile.jpg"
 import pic from "../../assets/images/pic.png"
 
@@ -21,7 +29,7 @@ const About = () => {
                                 </div>
                                 <div className="about-social text-center">
                                     <ul>
-                                        <li><a href=""><i><RiFacebookCircleFill size={20} /></i></a></li>
+                                        <li><a href="https://yassinechalh.notion.site/Yassine-CHALH-11202723a3b3800599c7ee9ff9a2d3ad"><i><RiGlobalFill size={20} /></i></a></li>
                                         <li><a href="https://x.com/yaashall"><i><RiTwitterXLine size={20} /></i></a></li>
                                         <li><a href="https://www.linkedin.com/in/yassine-chalh-085867242/"><i><RiLinkedinFill size={20} /></i></a></li>
                                         <li><a href="https://github.com/yaashall01"><i><RiGithubLine size={20} /></i></a></li>
