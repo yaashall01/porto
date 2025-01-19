@@ -48,7 +48,7 @@ const About = () => {
                                     ecosystem and DevOps.
                                 </h2>
                                 <div className="hero-btns">
-                                    <a href="/CV_Yassine_CHALH_Fullstack_en.pdf" className="theme-btn">Download CV <i><RiDownloadLine size={16}/></i></a>
+                                    <a href="/CV_Yassine_CHALH_fullstack_dev.pdf" className="theme-btn">Download CV <i><RiDownloadLine size={16}/></i></a>
                                 </div>
                             </SlideUp>
                             <SlideUp>
