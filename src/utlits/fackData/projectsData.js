@@ -5,6 +5,7 @@ import work_4 from "../../assets/images/projects/work4.jpeg"
 import work_5 from "../../assets/images/projects/work5.png"
 import work_7 from "../../assets/images/projects/work7.png"
 import work_6 from "../../assets/images/projects/work6.png"
+import work_8 from "../../assets/images/projects/sophatour.png"
 
 export const projectsData = [
     {
@@ -42,14 +43,22 @@ export const projectsData = [
     },
     {
         id: 4,
+        src: work_8,
+        category: "Web App",
+        title: "SOPHATOUR - Billing Solution",
+        description: "Sophatour is a billing solution ERP built with PHP, jQuery, and MySQL, designed to streamline invoicing, payment tracking, and client management. It offers a user-friendly interface and efficient database management for seamless business operations.",
+        tools: ["MVP", "MySQL", "PHP", "JQuery", "Bootstrap", "DataGrip"]
+    },
+  /*  {
+        id: 5,
         src: work_6,
         category: "Database",
         title: "Conception and Administration Mysql Database",
         description: "Managed MySQL database design and administration using DataGrip and SQL. Designed database model with Drawio.",
         tools: ["DataGrip","MySQL Server", "SQL", "Drawio"]
-    },
+    },*/
     {
-        "id": 5,
+        "id": 6,
         "src": work_5,
         "category": "Web App",
         "title": "Project Management Platform Landing Page",
