@@ -14,7 +14,7 @@ export const workExperience = [
     },{
         id: 2,
         logo : un,
-        years: "Nov 2024 - Present",
+        years: "Nov 2024 - Jan 2025",
         institute: "UNION HOLDING · Full-Time",
         position: "Full Stack PHP/Angular Developer"
     },
